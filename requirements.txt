@@ -1,0 +1,5 @@
+streamlit
+pyautogen
+matplotlib
+yfinance
+bs4
